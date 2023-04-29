@@ -1,0 +1,1 @@
+9999999999{"name": "boto3", "version": "1.26.104", "summary": "The AWS SDK for Python", "platform": null, "requires_dist": ["botocore (<1.30.0,>=1.29.104)", "jmespath (<2.0.0,>=0.7.1)", "s3transfer (<0.7.0,>=0.6.0)", "botocore[crt] (<2.0a0,>=1.21.0) ; extra == 'crt'"], "requires_python": ">= 3.7", "files": [], "_cache_version": "1.0.0"}
